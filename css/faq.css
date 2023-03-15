@@ -1,0 +1,15 @@
+.vl{
+    margin-top: 50px;
+    margin-left: 20px;
+    padding: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.decor{
+  text-decoration: none;
+}
+
+  .socicon {
+    width: 2rem;
+    height: 2rem;
+  }
