@@ -98,3 +98,23 @@ textarea::-webkit-scrollbar-thumb{
     margin-left: 20px;
     font-size: 14px;
 }
+
+@media screen and (max-width:420px) {
+    .title,
+.article{
+    width: 100%;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.article{
+    font-size: 15px;
+    margin-top: 20px;
+    font-weight: 300;
+}
+
+.blog{
+    width: 70vw;
+    min-width: 300px;
+}
+}
